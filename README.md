@@ -11,7 +11,7 @@ I have an Android Native application that targets two different API versions: 23
 - Java 8.0.265-open
 
 # Emulators comparison
-##API 23
+## API 23
 
 - Galaxy Nexus 4.65 720x1280
 - Android 6.0 x86_64 (Marshmallow)
